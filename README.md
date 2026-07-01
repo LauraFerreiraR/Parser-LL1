@@ -120,7 +120,4 @@ Caso a sequência de tokens não pertença à gramática, o parser informará um
 
 ---
 
-
-Graduada em Ciência da Computação
-
 Projeto desenvolvido para a disciplina de **Compiladores**.
